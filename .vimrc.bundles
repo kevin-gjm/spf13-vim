@@ -293,6 +293,9 @@
             Bundle 'saltstack/salt-vim'
         endif
     " }
+    " VIntSearch { 
+            Bundle 'vim-scripts/VIntSearch'
+    " }
 
     endif
 
